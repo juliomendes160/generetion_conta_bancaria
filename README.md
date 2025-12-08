@@ -25,6 +25,11 @@
 
 	touch .gitignore
 
+# Step 2
+
+[Projeto Conta Bancária - Classe Conta](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr03.md)
+
+
 # code
 
 	code --install-extension ms-vscode.vscode-typescript-next
