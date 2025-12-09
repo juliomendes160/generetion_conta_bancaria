@@ -27,8 +27,17 @@
 
 # Step 2
 
+[ATIVIDADE PRÁTICA - JAVASCRIPT JS-10 - TASK-02 – Projeto Conta Bancária Construção da Classe Conta](https://docs.google.com/document/d/1aXf4hoIP_pg8IcTuHDzbIIm4dqGy2pkI/edit)
+
 [Projeto Conta Bancária - Classe Conta](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr03.md)
 
+# Step 3
+
+[ATIVIDADE PRÁTICA - JAVASCRIPT JS-12 - TASK-03 – Projeto Conta Bancária Construção da Interface Conta Repository](https://docs.google.com/document/d/1c_MpWwCJgu0gAPp29t6q35hBZn1fwDa7/edit)
+
+[Projeto Conta Bancária - Aulas ContaCorrente e ContaPoupanca](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr04.md)
+
+[Projeto Conta Bancária - Classe Conta - Resumo](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr05.md)
 
 # code
 
