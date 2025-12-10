@@ -2,13 +2,29 @@
 
 [Cookbook](https://github.com/conteudoGeneration/cookbook_javascript/tree/main)
 
+[Projeto Conta Bancária](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/README.md)
+
 # Step 1
 
-[ATIVIDADE PRÁTICA - JAVASCRIPT JS-09 - TASK-01 – Projeto Conta Bancária Construção do Projeto e do Menu Principal](https://docs.google.com/document/d/1lCaWjvA6EkSYD3mI9irtXODeuc1O8hJv/edit)
+1. [Projeto Conta Bancária - Menu Classe](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr01.md)
 
-[Projeto Conta Bancária - Menu Classe](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr01.md)
+2. [Projeto Conta Bancária - Menu Classe - Colorido](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr02.md)
 
-[Projeto Conta Bancária - Menu Classe - Colorido](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr02.md)
+# Step 2
+
+3. [Projeto Conta Bancária - Classe Conta](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr03.md)
+
+# Step 3
+
+4. [Projeto Conta Bancária - Aulas ContaCorrente e ContaPoupanca](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr04.md)
+
+5. [Projeto Conta Bancária - Classe Conta - Resumo](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr05.md)
+
+# Step 4
+
+6. [Projeto Conta Bancária - Interface ContaRepository](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr06.md)
+
+# projeto
 
 	npm init -y
 
@@ -25,30 +41,9 @@
 
 	touch .gitignore
 
-# Step 2
-
-[ATIVIDADE PRÁTICA - JAVASCRIPT JS-10 - TASK-02 – Projeto Conta Bancária Construção da Classe Conta](https://docs.google.com/document/d/1aXf4hoIP_pg8IcTuHDzbIIm4dqGy2pkI/edit)
-
-[Projeto Conta Bancária - Classe Conta](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr03.md)
-
-# Step 3
-
-[ATIVIDADE PRÁTICA - JAVASCRIPT JS-12 - TASK-03 – Projeto Conta Bancária Construção da Interface Conta Repository](https://docs.google.com/document/d/1c_MpWwCJgu0gAPp29t6q35hBZn1fwDa7/edit)
-
-[Projeto Conta Bancária - Aulas ContaCorrente e ContaPoupanca](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr04.md)
-
-[Projeto Conta Bancária - Classe Conta - Resumo](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr05.md)
-
 # code
 
 	code --install-extension ms-vscode.vscode-typescript-next
-
-	Nome: JavaScript and TypeScript Nightly
-	ID: ms-vscode.vscode-typescript-next
-	Descrição: Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support
-	Versão: 6.0.20251202
-	Editor: Microsoft
-	Link do Marketplace do VS: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
 
 # git
 
