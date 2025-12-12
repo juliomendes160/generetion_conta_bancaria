@@ -24,6 +24,14 @@
 
 6. [Projeto Conta Bancária - Interface ContaRepository](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr06.md)
 
+# Step 5
+
+7. [Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte I](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr07.md)
+
+8. [Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr08.md)
+
+9. [Projeto Conta Bancária - Classe ContaController - Métodos Bancários](https://github.com/conteudoGeneration/cookbook_javascript/blob/main/01_javascript/pr09.md)
+
 # projeto
 
 	npm init -y
